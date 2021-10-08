@@ -59,10 +59,10 @@ private:
   bool checkPowerConfig(BoardConfig const *boardConfig);
 };
 
-extern BoardConfig TTGO_LORA32_V1;
-extern BoardConfig TTGO_LORA32_V2;
-extern BoardConfig TTGO_T_Beam_V0_7;
-extern BoardConfig TTGO_T_Beam_V1_0;
+// extern BoardConfig TTGO_LORA32_V1;
+// extern BoardConfig TTGO_LORA32_V2;
+// extern BoardConfig TTGO_T_Beam_V0_7;
+// extern BoardConfig TTGO_T_Beam_V1_0;
 extern BoardConfig ETH_BOARD;
 extern BoardConfig TRACKERD;
 extern BoardConfig HELTEC_WIFI_LORA_32_V1;
